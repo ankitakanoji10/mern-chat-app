@@ -39,7 +39,7 @@ View other users profile
 ![view other users profile](https://github.com/ankitakanoji10/mern-chat-app/assets/95422118/a5df633b-fd2d-4f7b-95e1-7eaef27dbc05)
 
 
-Intall npm in both BackEnd and FrontEnd Folder (This will be install all the dependencies).
+Intall npm in both BackEnd and FrontEnd Folder (Install all dependencies given package.json).
 
 Use npm install
 In the BackEnd Folder, .env file change the MONGO_URL to your data-base link.
