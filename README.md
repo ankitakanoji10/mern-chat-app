@@ -35,9 +35,6 @@ Notifications
 Add or Remove Users from group
 ![group modal](https://github.com/ankitakanoji10/mern-chat-app/assets/95422118/c66d11e7-109f-435c-a584-ca316e3ff556)
 
-View other users profile
-![view other users profile](https://github.com/ankitakanoji10/mern-chat-app/assets/95422118/a5df633b-fd2d-4f7b-95e1-7eaef27dbc05)
-
 
 Intall npm in both BackEnd and FrontEnd Folder (Install all dependencies given package.json).
 
